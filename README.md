@@ -9,3 +9,4 @@ Our company has a long-standing reputation for providing top-tier air transporta
 **Higher Flight Taxes**: Governments globally are imposing heavier taxes on aircraft to address environmental concerns and generate revenue. These increased flight taxes have raised the overall cost of flying, subsequently reducing demand.
 
 **Tight Labor Market and Increased Labor Costs**: The aviation sector is experiencing a shortage of skilled workers, leading to higher labor costs and increased turnover rates.
+
