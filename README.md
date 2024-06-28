@@ -10,4 +10,12 @@ Our company has a long-standing reputation for providing top-tier air transporta
 
 **Tight Labor Market and Increased Labor Costs**: The aviation sector is experiencing a shortage of skilled workers, leading to higher labor costs and increased turnover rates.
 
+# Analysis 
+
+**Aircrafts with >100 seats**
+
 ![alt text](https://github.com/Pra1237159/Airline-Business-Problem/blob/main/Total%20seats.png)
+
+773 Aircraft: Highest number of seats (402), indicating it's a large-capacity aircraft.
+319 Aircraft: Lowest capacity with 116 seats.
+
