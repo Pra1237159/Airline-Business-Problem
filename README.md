@@ -35,6 +35,7 @@ Similar to the booking pattern, the revenue shows a sharp increase from June 22 
 1. Target High-Demand Periods: The data shows a clear peak in bookings and revenue from late June to mid-August. Focus marketing efforts and promotional deals during these periods to maximize occupancy.
 Dynamic Pricing: Implement dynamic pricing strategies to optimize revenue during high-demand periods and offer discounts during low-demand periods to encourage bookings.
 2. Loyalty Programs: Enhance loyalty programs to retain frequent flyers and encourage repeat business during low-demand periods.
+   
 **Optimize Fleet Utilization:**
 1. High-Capacity Aircraft: Utilize larger aircraft (e.g., 773 and 763) during peak times to accommodate more passengers and maximize revenue.
 2. Small to Medium Aircraft: Deploy smaller aircraft (e.g., 319, 320, 321, 733) during off-peak times or for routes with lower demand to reduce operational costs.
