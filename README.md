@@ -10,3 +10,4 @@ Our company has a long-standing reputation for providing top-tier air transporta
 
 **Tight Labor Market and Increased Labor Costs**: The aviation sector is experiencing a shortage of skilled workers, leading to higher labor costs and increased turnover rates.
 
+![alt text](https://github.com/Pra1237159/Airline-Business-Problem/blob/main/Total%20seats.png)
