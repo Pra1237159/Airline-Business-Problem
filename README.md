@@ -40,6 +40,6 @@ Dynamic Pricing: Implement dynamic pricing strategies to optimize revenue during
 1. High-Capacity Aircraft: Utilize larger aircraft (e.g., 773 and 763) during peak times to accommodate more passengers and maximize revenue.
 2. Small to Medium Aircraft: Deploy smaller aircraft (e.g., 319, 320, 321, 733) during off-peak times or for routes with lower demand to reduce operational costs.
 
-**Aircaft Specific Analysis**
+# Aircaft Specific Analysis
 
 
