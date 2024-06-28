@@ -19,3 +19,10 @@ Our company has a long-standing reputation for providing top-tier air transporta
 773 Aircraft: Highest number of seats (402), indicating it's a large-capacity aircraft.
 319 Aircraft: Lowest capacity with 116 seats.
 
+**Number of seats booked per day**
+![alt_text](https://github.com/Pra1237159/Airline-Business-Problem/blob/main/Daywsie%20seat%20booked.png)
+
+Insights:
+    -There is a significant increase in the number of tickets booked from June 22 to July 8, peaking around mid-August.
+    -The booking rate stabilizes with minor fluctuations after the initial rise, showing a consistent demand.
+
