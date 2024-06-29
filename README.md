@@ -41,9 +41,25 @@ Dynamic Pricing: Implement dynamic pricing strategies to optimize revenue during
 2. Small to Medium Aircraft: Deploy smaller aircraft (e.g., 319, 320, 321, 733) during off-peak times or for routes with lower demand to reduce operational costs.
 
 # Aircaft Specific Analysis
+
+**Total revenue per year and tickets sold per year by aircraft:**
 ![alt_text](https://github.com/Pra1237159/Airline-Business-Problem/blob/main/Revenue%20ticket%20acft.png)
 
 1. Aircraft SU9 generates the highest total revenue (approx. 5.1 billion) and sells the most tickets per year (approx. 350,000).
 2. Aircraft CN1 generates the least revenue (approx. 96 million) and sells the least number of tickets (approx. 50,000).
-3. 763 and 773 aircraft also perform well in terms of revenue but have fewer ticket sales compared to SU9
+3. 763 and 773 aircraft also perform well in terms of revenue but have fewer ticket sales compared to SU9.
+
+**Revenue per ticket sold by Aircraft:**
+![alt_text](https://github.com/Pra1237159/Airline-Business-Problem/blob/main/r%20per%20ticket.png)
+
+1. Aircraft 319 has the highest revenue per ticket (approx. 51,201), indicating premium pricing or long-haul flights.
+2. CN1 has the lowest revenue per ticket (approx. 6,568), suggesting it might be used for shorter or low-cost flights.
+3. 763 and 773 aircraft also have relatively high revenue per ticket (approx. 35,033 and 23,765 respectively).
+
+**Occupancy Rate by Aircraft:**
+![alt_text](https://github.com/Pra1237159/Airline-Business-Problem/blob/main/or.png)
+
+1. Aircraft 773 has the highest occupancy rate (approx. 65.9%), indicating it is frequently utilized and in demand.
+2. CR2 has the lowest occupancy rate (approx. 42.97%), suggesting it might be underutilized.
+3. 733, SU9, and 321 aircraft also have good occupancy rates (above 50%).
 
