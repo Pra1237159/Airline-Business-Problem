@@ -41,5 +41,9 @@ Dynamic Pricing: Implement dynamic pricing strategies to optimize revenue during
 2. Small to Medium Aircraft: Deploy smaller aircraft (e.g., 319, 320, 321, 733) during off-peak times or for routes with lower demand to reduce operational costs.
 
 # Aircaft Specific Analysis
+![alt_text](https://github.com/Pra1237159/Airline-Business-Problem/blob/main/Revenue%20ticket%20acft.png)
 
+1. Aircraft SU9 generates the highest total revenue (approx. 5.1 billion) and sells the most tickets per year (approx. 350,000).
+2. Aircraft CN1 generates the least revenue (approx. 96 million) and sells the least number of tickets (approx. 50,000).
+3. 763 and 773 aircraft also perform well in terms of revenue but have fewer ticket sales compared to SU9
 
