@@ -63,6 +63,9 @@ Dynamic Pricing: Implement dynamic pricing strategies to optimize revenue during
 2. CR2 has the lowest occupancy rate (approx. 42.97%), suggesting it might be underutilized.
 3. 733, SU9, and 321 aircraft also have good occupancy rates (above 50%).
 
+**Average price per seat for each aircraft:**
+![alt_text](https://github.com/Pra1237159/Airline-Business-Problem/blob/main/avg%20price%20per%20seat%20vs%20acft.png)
+
 **Increase in revenue for 10% higher occupancy**
 ![alt_text](https://github.com/Pra1237159/Airline-Business-Problem/blob/main/R%20incearsed.png)
 
