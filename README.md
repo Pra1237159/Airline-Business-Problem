@@ -45,6 +45,9 @@ Dynamic Pricing: Implement dynamic pricing strategies to optimize revenue during
 **Total revenue per year and tickets sold per year by aircraft:**
 ![alt_text](https://github.com/Pra1237159/Airline-Business-Problem/blob/main/Revenue%20ticket%20acft.png)
 
+**Average price per seat for each aircraft:**
+![alt_text](https://github.com/Pra1237159/Airline-Business-Problem/blob/main/avg%20price%20per%20seat%20vs%20acft.png)
+
 1. Aircraft SU9 generates the highest total revenue (approx. 5.1 billion) and sells the most tickets per year (approx. 350,000).
 2. Aircraft CN1 generates the least revenue (approx. 96 million) and sells the least number of tickets (approx. 50,000).
 3. 763 and 773 aircraft also perform well in terms of revenue but have fewer ticket sales compared to SU9.
@@ -59,15 +62,41 @@ Dynamic Pricing: Implement dynamic pricing strategies to optimize revenue during
 **Occupancy Rate by Aircraft:**
 ![alt_text](https://github.com/Pra1237159/Airline-Business-Problem/blob/main/or.png)
 
+**Increase in revenue for 10% higher occupancy**
+![alt_text](https://github.com/Pra1237159/Airline-Business-Problem/blob/main/R%20incearsed.png)
+
 1. Aircraft 773 has the highest occupancy rate (approx. 65.9%), indicating it is frequently utilized and in demand.
 2. CR2 has the lowest occupancy rate (approx. 42.97%), suggesting it might be underutilized.
 3. 733, SU9, and 321 aircraft also have good occupancy rates (above 50%).
 
-**Average price per seat for each aircraft:**
-![alt_text](https://github.com/Pra1237159/Airline-Business-Problem/blob/main/avg%20price%20per%20seat%20vs%20acft.png)
+# Recommendations
 
-**Increase in revenue for 10% higher occupancy**
-![alt_text](https://github.com/Pra1237159/Airline-Business-Problem/blob/main/R%20incearsed.png)
+**Optimize Fleet Utilization:**
+
+1. Maximize High-Performing Aircraft: Increase the number of flights for SU9 and 773, focusing on high-demand routes to maximize revenue.
+2. Reallocate Underperforming Aircraft: Assess routes and demand for CR2 and CN1 to identify opportunities for better deployment or potential phase-out if not profitable.
+
+**Pricing Strategy:**
+1. Dynamic Pricing for Low Occupancy Aircraft: Implement dynamic pricing strategies for aircraft like 319 and CR2 to boost occupancy rates while maintaining profitability.
+2. Leverage High Revenue per Ticket: Continue leveraging premium pricing for 319 and 773, ensuring these aircraft are deployed on routes where higher ticket prices are sustainable.
+
+**Route Optimization:**
+
+1. Focus on High-Demand Routes: Increase the frequency of flights on popular routes served by SU9 and 773 to capture more market share.
+2. Redistribute Low-Demand Routes: Consider redistributing or reducing flights on low-demand routes served by CR2 and CN1, reallocating these resources to more profitable routes.
+
+**Marketing and Promotions:**
+
+1. Targeted Marketing Campaigns: Launch targeted marketing campaigns to boost awareness and sales for underutilized aircraft, focusing on routes where these aircraft operate.
+2. Seasonal Promotions: Use seasonal promotions to increase ticket sales during off-peak times, particularly for aircraft with lower occupancy rates.
+
+**Operational Efficiency:**
+
+1.Improve Scheduling: Optimize flight schedules to reduce downtime and increase the number of flights per aircraft, focusing on high-demand periods.
+2. Cost Management: Implement cost-saving measures across operations, such as fuel-efficient practices and lean staffing models, to mitigate the impact of rising costs.
+
+
+
 
 
 
